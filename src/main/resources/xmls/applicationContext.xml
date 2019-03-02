@@ -25,7 +25,5 @@
     <!-- 导入事务配置 -->    
     <import resource="spring-tx.xml"/>    
     
-    <!-- 导入权限配置 -->    
-    <import resource="spring-shiro.xml"/>    
         
 </beans>    
